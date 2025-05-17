@@ -126,6 +126,3 @@ The installer will be in the `dist/` folder.
 Pull requests and suggestions are welcome! Please open an issue first to discuss changes.
 
 ---
-
-## 📄 License
-MIT 
